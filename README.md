@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Codyst/Testing%20DevOps/_apis/build/status/damianwhyte.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Codyst/Testing%20DevOps/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
